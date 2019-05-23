@@ -1,0 +1,22 @@
+#search-result{
+	padding:10px;
+	background:#333;
+	color:#FFF;
+	margin-bottom:10px;
+	border-radius:3px;
+	font-size:14px;}
+#search-result span{
+	color:#FFFF00;}	
+
+#pagination ul{
+	float:right;
+	margin-top:20px;}
+#pagination ul li a.page-link{
+	color:#333333;}			
+#pagination ul li a.page-link:hover{
+	background:#EB1F27;
+	color:#FFF;}
+#pagination ul li.active a{
+	background:#EB1F27;
+	border-color:#dee2e6;
+	color:#FFF;}		

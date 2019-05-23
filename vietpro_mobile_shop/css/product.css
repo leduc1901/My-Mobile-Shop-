@@ -1,0 +1,83 @@
+#product{
+	padding:0 15px;
+	margin-top:20px;}
+#product-head, #product-body, #comment, #comments-list{
+	background:#FFF;
+	border-radius:3px;
+	padding:10px 0;}
+#product-img{
+	text-align:center;}	
+#product-img img{
+	width:250px;}
+#product-details h1, #product-body h3, #comment h3{
+	font-size:18px;
+	font-weight:bold;}	
+#product-details ul li{
+	list-style:none;
+	height:30px;
+	line-height:30px;}
+#product-details ul li span{
+	font-weight:bold;}		
+#price-number{
+	font-size:20px;
+	font-weight:bold;
+	color:#eb1f27;}	
+#price, #status{
+	border-top:1px dashed #333333;
+	margin-top:10px;}
+#status{
+	font-weight:bold;
+	color:#5cb85c;}		
+#product-body, #comment, #comments-list{
+	margin-top:10px;}	
+#product-body h3{
+	margin-bottom:20px;}		
+#add-cart a:hover{
+	color:#EB1F27;
+	background:#FFF;}	
+#add-cart a{
+	display:inline-table;
+	border-radius:3px;
+	border:1px solid #EB1F27;
+	background:#EB1F27;
+	padding:15px 20px;
+	color:#FFF;
+	text-decoration:none;}
+#comment button{
+	background:#EB1F27;
+	border:none;}
+#comment button:hover{
+	background:#C60A11;
+	border:none;}
+.comment-item ul li{
+	list-style:none;}	
+.comment-item ul li:last-child{
+	padding:15px 0 5px 0;
+	border-bottom:1px dashed #333;}
+.comment-item:last-child ul li:last-child{
+	border:none;}
+#pagination ul{
+	float:right;
+	margin-top:20px;}
+#pagination ul li a.page-link{
+	color:#333333;}			
+#pagination ul li a.page-link:hover{
+	background:#EB1F27;
+	color:#FFF;}
+#pagination ul li.active a{
+	background:#EB1F27;
+	border-color:#dee2e6;
+	color:#FFF;}
+@media (max-width:768px){
+	.product-item.card.text-center{
+		
+	}
+}
+
+
+
+
+
+
+	
+		

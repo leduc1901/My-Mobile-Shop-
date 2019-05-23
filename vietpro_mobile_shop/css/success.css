@@ -1,0 +1,32 @@
+#order-success{
+	margin-top:20px;
+	padding:20px;
+	background:#FFF;
+	border-radius:3px;}
+#order-success-img{
+	height:86px;
+	background:url(../images/img-ship.png) top left no-repeat;}
+#order-success-txt h3{
+	font-size:22px;
+	font-weight:bold;
+	text-transform:uppercase;
+	color:#58b947;}
+#order-success-txt p{
+	font-size:18px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

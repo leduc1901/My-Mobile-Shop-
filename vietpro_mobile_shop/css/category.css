@@ -1,0 +1,12 @@
+#pagination ul{
+	float:right;
+	margin-top:20px;}
+#pagination ul li a.page-link{
+	color:#333333;}			
+#pagination ul li a.page-link:hover{
+	background:#EB1F27;
+	color:#FFF;}
+#pagination ul li.active a{
+	background:#EB1F27;
+	border-color:#dee2e6;
+	color:#FFF;}	
